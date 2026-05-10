@@ -1,0 +1,24 @@
+# React Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+
+# Spring Boot Backend
+libraryapi/target/
+libraryapi/bin/
+libraryapi/.settings/
+libraryapi/.classpath
+libraryapi/.project
+libraryapi/.idea/
+libraryapi/*.iml
+libraryapi/logs/
+libraryapi/application-dev.properties
+
+# General
+.DS_Store
+Thumbs.db
