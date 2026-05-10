@@ -9,6 +9,10 @@
 
 > A modern, enterprise-grade Full-Stack Library Management System designed with a premium Glassmorphism UI, Database-backed Authentication, and automated business logic for due dates and late fines.
 
+## 🎯 About This Project
+This project was developed to showcase a complete **Full-Stack Application lifecycle** — from designing a relational database schema in MySQL to securing REST APIs with Spring Security, and building a highly responsive, modern React frontend. It goes beyond basic CRUD operations by implementing real-world business requirements like **Automated Overdue Fines**, **Data Exports**, and **Database-Backed Authentication**.
+
+
 ## ✨ Key Features
 
 - **🔐 Robust Security (Authentication & Authorization):**
